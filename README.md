@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Project Name
 
@@ -98,3 +99,6 @@ Example:
 
 Example:
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# 2800-202510-BBY24
+>>>>>>> parent of 446e086 (Initial Commit)
